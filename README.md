@@ -1,4 +1,4 @@
-# Hi, I'm Abhinav P J 👋
+# Hi, I'm Abhinav  👋
 
 ### Software engineering · machine learning · student
 
@@ -10,17 +10,6 @@ I'm a third-year Computer Science & Engineering student at IIT Delhi interested 
 - Competitive programming and mentoring through the Algorithms and Coding Club at IIT Delhi.
 - Previously, I worked as an intern at Uppsala University on learning-to-optimize methods for Sequential Quadratic Programming.
 - Joining IMC Trading as a Software Engineering Intern next summer.
-
-## Selected projects
-
-- [MOBIUS](https://github.com/AbhinavPJ/MOBIUS) — a JavaScript matchmaking platform.
-- [BACKTESTING-ENGINE](https://github.com/AbhinavPJ/BACKTESTING-ENGINE) — a C++ backtesting engine for exploring trading strategies.
-- [Signlanguage_neural_network](https://github.com/AbhinavPJ/Signlanguage_neural_network) — a Python-based neural network project.
-- [Personal portfolio](https://abhinavpj.github.io) — experience and selected work.
-
-## Toolbox
-
-C++ · Python · JavaScript · machine learning · Linux · Git
 
 ## Find me online
 
