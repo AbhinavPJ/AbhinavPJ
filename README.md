@@ -1,31 +1,26 @@
 # Hi, I'm Abhinav P J 👋
 
-### C++ systems · numerical optimization · machine learning
+### Software engineering · machine learning · student
 
-I'm a Computer Science & Engineering student at IIT Delhi who enjoys building efficient software and understanding systems from first principles.
+I'm a third-year Computer Science & Engineering student at IIT Delhi interested in building useful software and learning more about machine learning.
 
-My work sits at the intersection of:
-- high-performance C++ and low-latency systems
-- numerical optimization and learning-to-optimize methods
-- machine learning and algorithmic problem solving
+## What I'm up to
 
-## What I'm working on
-
-- Building and studying systems where performance, correctness, and clean abstractions matter.
-- Exploring numerical optimization, machine learning, and performance engineering.
+- Exploring software engineering, systems, and machine learning through projects and coursework.
 - Competitive programming and mentoring through the Algorithms and Coding Club at IIT Delhi.
-- Previously, I worked as a Research Intern at Uppsala University on learning-to-optimize methods for Sequential Quadratic Programming.
+- Previously, I worked as an intern at Uppsala University on learning-to-optimize methods for Sequential Quadratic Programming.
+- Joining IMC Trading as a Software Engineering Intern next summer.
 
 ## Selected projects
 
 - [MOBIUS](https://github.com/AbhinavPJ/MOBIUS) — a JavaScript matchmaking platform.
 - [BACKTESTING-ENGINE](https://github.com/AbhinavPJ/BACKTESTING-ENGINE) — a C++ backtesting engine for exploring trading strategies.
 - [Signlanguage_neural_network](https://github.com/AbhinavPJ/Signlanguage_neural_network) — a Python-based neural network project.
-- [Personal portfolio](https://abhinavpj.github.io) — experience, research, and selected work.
+- [Personal portfolio](https://abhinavpj.github.io) — experience and selected work.
 
 ## Toolbox
 
-C++ · Python · JavaScript · numerical optimization · machine learning · Linux · Git
+C++ · Python · JavaScript · machine learning · Linux · Git
 
 ## Find me online
 
